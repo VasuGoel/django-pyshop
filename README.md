@@ -13,6 +13,11 @@ Start by either downloading the zip file or clone with HTTPS.
 
 
 
+## Built With
+
+* [Django] (https://www.djangoproject.com/) - Django is a Python-based free and open-source web framework
+* [Python] (https://www.python.org/) - Python is an interpreted, high-level, general-purpose programming language.
+
 
 ## Authors
 
