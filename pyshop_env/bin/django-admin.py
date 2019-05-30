@@ -1,4 +1,4 @@
-#!/Users/vasugoel/Desktop/Python/django-pyshop/pyshop_env/bin/python3.7
+#!/Users/vasugoel/Documents/Python/django-pyshop/pyshop_env/bin/python3.7
 from django.core import management
 
 if __name__ == "__main__":

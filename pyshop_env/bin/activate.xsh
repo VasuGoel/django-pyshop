@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Users/vasugoel/Desktop/Python/django-pyshop/pyshop_env"
+$VIRTUAL_ENV = r"/Users/vasugoel/Documents/Python/django-pyshop/pyshop_env"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

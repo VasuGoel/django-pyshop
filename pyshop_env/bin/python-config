@@ -1,4 +1,4 @@
-#!/Users/vasugoel/Desktop/Python/django-pyshop/pyshop_env/bin/python
+#!/Users/vasugoel/Documents/Python/django-pyshop/pyshop_env/bin/python
 
 import sys
 import getopt
