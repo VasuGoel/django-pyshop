@@ -10,3 +10,14 @@ Start by either downloading the zip file or clone with HTTPS.
 
 * Python 3.7.3 (https://www.python.org/downloads/)
 
+
+
+
+
+## Authors
+
+* **Vasu Goel** (https://github.com/VasuGoel)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/VasuGoel/django-pyshop/blob/master/LICENSE) file for details
