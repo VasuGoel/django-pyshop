@@ -28,7 +28,7 @@ git clone https://github.com/VasuGoel/django-pyshop.git
 cd ~/Downloads/django-pyshop-master/
 ```
 
-### 3. Activate the virtual environment
+#### 3. Activate the virtual environment
 
 * Activate the virtual environment 'pyshop_env', which can be located inside the django-pyshop-master folder root
 
@@ -36,7 +36,7 @@ cd ~/Downloads/django-pyshop-master/
 source pyshop_env/bin/activate
 ```
 
-### 4. Run the server via manage.py
+#### 4. Run the server via manage.py
 
 * Run the server to access the website on a local host
 
@@ -44,7 +44,7 @@ source pyshop_env/bin/activate
 python manage.py runserver
 ```
 
-### 5. Access the website
+#### 5. Access the website
 
 * Copy the host url from the terminal and paste it in your web-browser. Note: It should look something like http://127.0.0.1:8000/
 * Access the /products page to view all products
