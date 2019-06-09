@@ -1,7 +1,13 @@
-<h1>Products</h1>
+{% extends 'base.html' %}
 
-<ul>
-  {%  for product in products  %}
-    <li>{{  product.name  }} (${{  product.price  }})</li>
-  {% endfor  %}
-</ul>
+{% block content %}
+
+  <h1>Products</h1>
+
+  <ul>
+    {%  for product in products  %}
+      <li>{{  product.name  }} (${{  product.price  }})</li>
+    {% endfor  %}
+  </ul>
+
+{% endblock %}
